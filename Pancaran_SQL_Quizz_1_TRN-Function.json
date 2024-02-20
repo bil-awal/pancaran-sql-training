@@ -1,0 +1,1972 @@
+{
+    "resultCode": 1,
+    "message": "Success",
+    "items": [
+        {
+            "nik": "089416",
+            "name": "Agung Basit Gumelar",
+            "roster_data": null
+        },
+        {
+            "nik": "077710",
+            "name": "Hebat Aritonang",
+            "roster_data": null
+        },
+        {
+            "nik": "048623",
+            "name": "Suganda",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 4,
+                    "pattern_seqno": 1,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 7 FEB SHIFTING SUGANDA",
+                    "numof_days": 1,
+                    "pattern_seqno": 9,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "057910",
+            "name": "Rohidin",
+            "roster_data": null
+        },
+        {
+            "nik": "088414",
+            "name": "Cahyo Prasetyo",
+            "roster_data": null
+        },
+        {
+            "nik": "158812",
+            "name": "Maulana Alviyan",
+            "roster_data": null
+        },
+        {
+            "nik": "076712",
+            "name": "Odang",
+            "roster_data": null
+        },
+        {
+            "nik": "047906",
+            "name": "Porang Sinaga",
+            "roster_data": null
+        },
+        {
+            "nik": "098321",
+            "name": "David",
+            "roster_data": null
+        },
+        {
+            "nik": "019117",
+            "name": "Arif Priyono",
+            "roster_data": null
+        },
+        {
+            "nik": "049821",
+            "name": "Abdul Gani Alamsah",
+            "roster_data": null
+        },
+        {
+            "nik": "059521",
+            "name": "Dwi Bagus Virgiana",
+            "roster_data": null
+        },
+        {
+            "nik": "118509",
+            "name": "Muhamad Hasanudin",
+            "roster_data": null
+        },
+        {
+            "nik": "059011",
+            "name": "Asep Listiono",
+            "roster_data": null
+        },
+        {
+            "nik": "089521",
+            "name": "Amirul",
+            "roster_data": null
+        },
+        {
+            "nik": "059122",
+            "name": "Hermanto",
+            "roster_data": null
+        },
+        {
+            "nik": "049921",
+            "name": "Indra Somantri",
+            "roster_data": null
+        },
+        {
+            "nik": "078609",
+            "name": "Muhamad Syafi'i",
+            "roster_data": null
+        },
+        {
+            "nik": "019017",
+            "name": "Suhendra",
+            "roster_data": null
+        },
+        {
+            "nik": "038723",
+            "name": "Fauzi Yan Fauka",
+            "roster_data": null
+        },
+        {
+            "nik": "119220",
+            "name": "Hikmat Tantowi",
+            "roster_data": null
+        },
+        {
+            "nik": "108522",
+            "name": "Ahmad Awik",
+            "roster_data": null
+        },
+        {
+            "nik": "058522",
+            "name": "Zulfajri",
+            "roster_data": null
+        },
+        {
+            "nik": "117611",
+            "name": "Ade Kurniawan",
+            "roster_data": null
+        },
+        {
+            "nik": "026610",
+            "name": "Karnali Suherli",
+            "roster_data": null
+        },
+        {
+            "nik": "109116",
+            "name": "Jainudin",
+            "roster_data": null
+        },
+        {
+            "nik": "099822",
+            "name": "Agung Priana Wicaksana",
+            "roster_data": null
+        },
+        {
+            "nik": "026893",
+            "name": "Mulyana",
+            "roster_data": null
+        },
+        {
+            "nik": "059421",
+            "name": "Wahyu Febriyansyah",
+            "roster_data": null
+        },
+        {
+            "nik": "059314",
+            "name": "Gilbert Boy Sandi",
+            "roster_data": null
+        },
+        {
+            "nik": "012019",
+            "name": "Puadi",
+            "roster_data": null
+        },
+        {
+            "nik": "117411",
+            "name": "Hermanto",
+            "roster_data": null
+        },
+        {
+            "nik": "109221",
+            "name": "Alfian Henry Praditya",
+            "roster_data": null
+        },
+        {
+            "nik": "077910",
+            "name": "Rudi Hartono",
+            "roster_data": null
+        },
+        {
+            "nik": "018821",
+            "name": "Triwahyudi",
+            "roster_data": null
+        },
+        {
+            "nik": "096617",
+            "name": "Tasmari",
+            "roster_data": null
+        },
+        {
+            "nik": "129312",
+            "name": "Revi Kristian",
+            "roster_data": null
+        },
+        {
+            "nik": "057514",
+            "name": "Subagyo",
+            "roster_data": null
+        },
+        {
+            "nik": "088123",
+            "name": "Zulianto",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 4,
+                    "pattern_seqno": 1,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ZULIANTO",
+                    "numof_days": 1,
+                    "pattern_seqno": 9,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "089121",
+            "name": "Fatkhul Ulum",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 6,
+                    "pattern_seqno": 1,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 FATKHUL ULUM",
+                    "numof_days": 1,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "478513",
+            "name": "Kusmawan",
+            "roster_data": null
+        },
+        {
+            "nik": "027005",
+            "name": "Endi Suandi",
+            "roster_data": null
+        },
+        {
+            "nik": "068317",
+            "name": "Ahmad Hasanudin",
+            "roster_data": null
+        },
+        {
+            "nik": "048015",
+            "name": "Adha Ismail Mulya Sofianto",
+            "roster_data": null
+        },
+        {
+            "nik": "089023",
+            "name": "Fitroh Kamaluddin",
+            "roster_data": null
+        },
+        {
+            "nik": "018006",
+            "name": "Damianus Sihotang",
+            "roster_data": null
+        },
+        {
+            "nik": "098123",
+            "name": "Gatot Suherman",
+            "roster_data": null
+        },
+        {
+            "nik": "028723",
+            "name": "Heriyanto",
+            "roster_data": null
+        },
+        {
+            "nik": "170023",
+            "name": "Hilal Alhudan",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 2,
+                    "pattern_seqno": 1,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 6,
+                    "pattern_seqno": 2,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 2,
+                    "pattern_seqno": 3,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 6,
+                    "pattern_seqno": 4,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 2,
+                    "pattern_seqno": 5,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 6,
+                    "pattern_seqno": 6,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 2,
+                    "pattern_seqno": 7,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 HILAL AL HUDAN",
+                    "numof_days": 3,
+                    "pattern_seqno": 8,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "089823",
+            "name": "Ganis Santika",
+            "roster_data": null
+        },
+        {
+            "nik": "169623",
+            "name": "Bambang Septiadi",
+            "roster_data": null
+        },
+        {
+            "nik": "088822",
+            "name": "Irfan Budhiarto",
+            "roster_data": null
+        },
+        {
+            "nik": "088523",
+            "name": "Zulfajri",
+            "roster_data": null
+        },
+        {
+            "nik": "158411",
+            "name": "Jahrudin",
+            "roster_data": null
+        },
+        {
+            "nik": "179723",
+            "name": "Abdurrohim",
+            "roster_data": null
+        },
+        {
+            "nik": "069622",
+            "name": "Kurniawan Hadi Wibowo",
+            "roster_data": null
+        },
+        {
+            "nik": "168814",
+            "name": "M. Nursidik",
+            "roster_data": null
+        },
+        {
+            "nik": "017219",
+            "name": "Nana Supriyatna",
+            "roster_data": null
+        },
+        {
+            "nik": "189312",
+            "name": "Ahmad Faiz",
+            "roster_data": null
+        },
+        {
+            "nik": "017608",
+            "name": "Ahmad Hairul",
+            "roster_data": null
+        },
+        {
+            "nik": "099314",
+            "name": "Alan Santoso",
+            "roster_data": null
+        },
+        {
+            "nik": "028019",
+            "name": "Andi Gunawan",
+            "roster_data": null
+        },
+        {
+            "nik": "059020",
+            "name": "Panji Hidayat",
+            "roster_data": null
+        },
+        {
+            "nik": "089422",
+            "name": "Viky Rahmat Putra",
+            "roster_data": null
+        },
+        {
+            "nik": "038515",
+            "name": "Indra Lesmana",
+            "roster_data": null
+        },
+        {
+            "nik": "069921",
+            "name": "Puji Marwanto",
+            "roster_data": null
+        },
+        {
+            "nik": "078710",
+            "name": "Dadan Handani",
+            "roster_data": null
+        },
+        {
+            "nik": "015417",
+            "name": "Najib Syarif",
+            "roster_data": null
+        },
+        {
+            "nik": "058115",
+            "name": "Kurnata",
+            "roster_data": null
+        },
+        {
+            "nik": "038807",
+            "name": "Anto Susanto",
+            "roster_data": null
+        },
+        {
+            "nik": "298713",
+            "name": "Asep Sunaryo",
+            "roster_data": null
+        },
+        {
+            "nik": "028023",
+            "name": "Acep Ardiyansah",
+            "roster_data": null
+        },
+        {
+            "nik": "046810",
+            "name": "Dedi Djunaidi",
+            "roster_data": null
+        },
+        {
+            "nik": "018122",
+            "name": "Budi Santoso",
+            "roster_data": null
+        },
+        {
+            "nik": "099620",
+            "name": "Gerhana Maulana",
+            "roster_data": null
+        },
+        {
+            "nik": "068922",
+            "name": "M. Syaifudin",
+            "roster_data": null
+        },
+        {
+            "nik": "109421",
+            "name": "Cahyo Taufik Afriyanto",
+            "roster_data": null
+        },
+        {
+            "nik": "218913",
+            "name": "Hendra Santoso Aritonang",
+            "roster_data": null
+        },
+        {
+            "nik": "089523",
+            "name": "Septian",
+            "roster_data": null
+        },
+        {
+            "nik": "288313",
+            "name": "Bangbang Triadi",
+            "roster_data": null
+        },
+        {
+            "nik": "089114",
+            "name": "Muhammad Nahwawi",
+            "roster_data": null
+        },
+        {
+            "nik": "428013",
+            "name": "Sofyan Maulana",
+            "roster_data": null
+        },
+        {
+            "nik": "147313",
+            "name": "A.Mulyadi",
+            "roster_data": null
+        },
+        {
+            "nik": "037819",
+            "name": "Ir. Yonna Martinda Adrian",
+            "roster_data": null
+        },
+        {
+            "nik": "088221",
+            "name": "Risdianto",
+            "roster_data": null
+        },
+        {
+            "nik": "098921",
+            "name": "Andi Bagus Topik",
+            "roster_data": null
+        },
+        {
+            "nik": "109420",
+            "name": "Cahyo Taufik Afriyanto",
+            "roster_data": null
+        },
+        {
+            "nik": "209521",
+            "name": "Yudi Andri Ansyah",
+            "roster_data": null
+        },
+        {
+            "nik": "118522",
+            "name": "Komarudin",
+            "roster_data": null
+        },
+        {
+            "nik": "018522",
+            "name": "Rahmat Soleh",
+            "roster_data": null
+        },
+        {
+            "nik": "038619",
+            "name": "Syahrul Ramdhani",
+            "roster_data": null
+        },
+        {
+            "nik": "059720",
+            "name": "Abdurrohim",
+            "roster_data": null
+        },
+        {
+            "nik": "029522",
+            "name": "Sutrisno",
+            "roster_data": null
+        },
+        {
+            "nik": "058322",
+            "name": "Sudarto",
+            "roster_data": null
+        },
+        {
+            "nik": "058516",
+            "name": "Agus Gunawan",
+            "roster_data": null
+        },
+        {
+            "nik": "049820",
+            "name": "Sutarji",
+            "roster_data": null
+        },
+        {
+            "nik": "017005",
+            "name": "Apid",
+            "roster_data": null
+        },
+        {
+            "nik": "037516",
+            "name": "H.Abdul Wadud Saiful Anwar",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 3,
+                    "pattern_seqno": 1,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 3,
+                    "pattern_seqno": 2,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 5,
+                    "pattern_seqno": 3,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 5,
+                    "pattern_seqno": 5,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 5,
+                    "pattern_seqno": 7,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC WADUD",
+                    "numof_days": 5,
+                    "pattern_seqno": 9,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "018704",
+            "name": "Gugun Gunara",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 1,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 3,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 5,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 7,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 9,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SHIFT MC GUGUN",
+                    "numof_days": 2,
+                    "pattern_seqno": 10,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "038722",
+            "name": "Aji Wardana",
+            "roster_data": null
+        },
+        {
+            "nik": "019924",
+            "name": "Muhammad Lutfi Hakim",
+            "roster_data": null
+        },
+        {
+            "nik": "027602",
+            "name": "Agus Tajudin",
+            "roster_data": null
+        },
+        {
+            "nik": "099619",
+            "name": "Estu Muktilaksono",
+            "roster_data": null
+        },
+        {
+            "nik": "149722",
+            "name": "Candra Yuli Hartana",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 6,
+                    "pattern_seqno": 1,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 CANDRA Y",
+                    "numof_days": 1,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "068109",
+            "name": "Didi Supandi",
+            "roster_data": null
+        },
+        {
+            "nik": "039023",
+            "name": "Ardiansyah",
+            "roster_data": null
+        },
+        {
+            "nik": "049218",
+            "name": "Alfi Yandi churul Fahmi",
+            "roster_data": null
+        },
+        {
+            "nik": "047821",
+            "name": "Alwi",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 3,
+                    "pattern_seqno": 1,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 1,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 5,
+                    "pattern_seqno": 5,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 1,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ALWI",
+                    "numof_days": 5,
+                    "pattern_seqno": 9,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "018121",
+            "name": "Atin",
+            "roster_data": null
+        },
+        {
+            "nik": "239013",
+            "name": "Aziz Izari",
+            "roster_data": null
+        },
+        {
+            "nik": "049522",
+            "name": "Amar Hasan Al - Bana",
+            "roster_data": null
+        },
+        {
+            "nik": "108616",
+            "name": "Fuad Hasim",
+            "roster_data": null
+        },
+        {
+            "nik": "078118",
+            "name": "Ganjar Wibawa",
+            "roster_data": null
+        },
+        {
+            "nik": "098614",
+            "name": "Cariwan",
+            "roster_data": null
+        },
+        {
+            "nik": "208822",
+            "name": "Ilhamsyah",
+            "roster_data": null
+        },
+        {
+            "nik": "038323",
+            "name": "Irvan Rosyandi",
+            "roster_data": null
+        },
+        {
+            "nik": "078201",
+            "name": "Iwan Priatna",
+            "roster_data": null
+        },
+        {
+            "nik": "039020",
+            "name": "Sukatni",
+            "roster_data": null
+        },
+        {
+            "nik": "038023",
+            "name": "Sustiawan",
+            "roster_data": null
+        },
+        {
+            "nik": "057421",
+            "name": "Sutarno",
+            "roster_data": null
+        },
+        {
+            "nik": "119523",
+            "name": "Ersa Mulyadin",
+            "roster_data": null
+        },
+        {
+            "nik": "339423",
+            "name": "Luji Priyanto",
+            "roster_data": null
+        },
+        {
+            "nik": "098622",
+            "name": "M. Amin Sakkar",
+            "roster_data": null
+        },
+        {
+            "nik": "057823",
+            "name": "Majih",
+            "roster_data": null
+        },
+        {
+            "nik": "000001",
+            "name": "Guest Coordinator",
+            "roster_data": null
+        },
+        {
+            "nik": "076910",
+            "name": "Makmun",
+            "roster_data": null
+        },
+        {
+            "nik": "028718",
+            "name": "Selamat Riyanto",
+            "roster_data": null
+        },
+        {
+            "nik": "098722",
+            "name": "Mansur Supriatna",
+            "roster_data": null
+        },
+        {
+            "nik": "000002",
+            "name": "Guest Mechanic",
+            "roster_data": null
+        },
+        {
+            "nik": "248012",
+            "name": "Latif Mudlofar",
+            "roster_data": null
+        },
+        {
+            "nik": "139222",
+            "name": "Maptukin",
+            "roster_data": null
+        },
+        {
+            "nik": "318713",
+            "name": "Martin Sujatmiko",
+            "roster_data": null
+        },
+        {
+            "nik": "048316",
+            "name": "Mulyadi S",
+            "roster_data": null
+        },
+        {
+            "nik": "037110",
+            "name": "Ade Elan",
+            "roster_data": null
+        },
+        {
+            "nik": "027623",
+            "name": "Ade Kurniawan",
+            "roster_data": null
+        },
+        {
+            "nik": "088222",
+            "name": "Sudiyanto",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 1,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 3,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 6,
+                    "pattern_seqno": 7,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 2,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 SUDIYANTO",
+                    "numof_days": 3,
+                    "pattern_seqno": 9,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "169218",
+            "name": "Ade Wardani Saputra",
+            "roster_data": null
+        },
+        {
+            "nik": "029623",
+            "name": "Adi Sudarsono Setiawan",
+            "roster_data": null
+        },
+        {
+            "nik": "050122",
+            "name": "Agit Gustian",
+            "roster_data": null
+        },
+        {
+            "nik": "158611",
+            "name": "Syarif Hidayatullah",
+            "roster_data": null
+        },
+        {
+            "nik": "189112",
+            "name": "Trio Aristiana",
+            "roster_data": null
+        },
+        {
+            "nik": "028704",
+            "name": "Ujang Karna Hermawan",
+            "roster_data": null
+        },
+        {
+            "nik": "089322",
+            "name": "Nur Kholis",
+            "roster_data": null
+        },
+        {
+            "nik": "079622",
+            "name": "Kevindio Pratama Kiswantoro, A.Md",
+            "roster_data": null
+        },
+        {
+            "nik": "148611",
+            "name": "Temi Setiawan",
+            "roster_data": null
+        },
+        {
+            "nik": "017519",
+            "name": "Syafei'i",
+            "roster_data": null
+        },
+        {
+            "nik": "368713",
+            "name": "Elan Jaelani",
+            "roster_data": null
+        },
+        {
+            "nik": "028316",
+            "name": "Irvan Rosyandi",
+            "roster_data": null
+        },
+        {
+            "nik": "036908",
+            "name": "Supardi",
+            "roster_data": null
+        },
+        {
+            "nik": "077706",
+            "name": "Selamet",
+            "roster_data": null
+        },
+        {
+            "nik": "059921",
+            "name": "Ahmad Maulana Damanik",
+            "roster_data": null
+        },
+        {
+            "nik": "018019",
+            "name": "Junaidi",
+            "roster_data": null
+        },
+        {
+            "nik": "026921",
+            "name": "Koko",
+            "roster_data": null
+        },
+        {
+            "nik": "128814",
+            "name": "Wahyudi",
+            "roster_data": null
+        },
+        {
+            "nik": "068322",
+            "name": "Erol Antoni",
+            "roster_data": null
+        },
+        {
+            "nik": "119222",
+            "name": "Samsul Imam",
+            "roster_data": null
+        },
+        {
+            "nik": "028823",
+            "name": "Nur Iksan",
+            "roster_data": null
+        },
+        {
+            "nik": "027821",
+            "name": "Riyono",
+            "roster_data": null
+        },
+        {
+            "nik": "027516",
+            "name": "Darul Kutni",
+            "roster_data": null
+        },
+        {
+            "nik": "047721",
+            "name": "Muharom",
+            "roster_data": null
+        },
+        {
+            "nik": "088522",
+            "name": "Andika Priyanto",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 2,
+                    "pattern_seqno": 1,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 6,
+                    "pattern_seqno": 2,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 2,
+                    "pattern_seqno": 3,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 6,
+                    "pattern_seqno": 4,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 2,
+                    "pattern_seqno": 5,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 6,
+                    "pattern_seqno": 6,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 2,
+                    "pattern_seqno": 7,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ANDIKA P",
+                    "numof_days": 5,
+                    "pattern_seqno": 8,
+                    "shift_id": "1c06f19d2dc3477483a4c058750d227c",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "108923",
+            "name": "Rosadi",
+            "roster_data": [
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 3,
+                    "pattern_seqno": 1,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 2,
+                    "pattern_seqno": 2,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 5,
+                    "pattern_seqno": 3,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 1,
+                    "pattern_seqno": 4,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 6,
+                    "pattern_seqno": 5,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 2,
+                    "pattern_seqno": 6,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 5,
+                    "pattern_seqno": 7,
+                    "shift_id": "36cb4a96d1d549b0a3a958f4af1e914c",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 1,
+                    "pattern_seqno": 8,
+                    "shift_id": "OFF",
+                    "workshop_id": null
+                },
+                {
+                    "date_from": "2024-01-18",
+                    "date_to": "2024-02-17",
+                    "docno": "ROS.0017",
+                    "roster_name": "18 JAN - 17 FEB 2024 ROSADI",
+                    "numof_days": 6,
+                    "pattern_seqno": 9,
+                    "shift_id": "e4de00f7eb3f4f2e8263bb515d552b88",
+                    "workshop_id": null
+                }
+            ]
+        },
+        {
+            "nik": "188211",
+            "name": "Rudi Susanto",
+            "roster_data": null
+        },
+        {
+            "nik": "199212",
+            "name": "Rudi Ariato Siagian",
+            "roster_data": null
+        },
+        {
+            "nik": "047321",
+            "name": "Pahrudin",
+            "roster_data": null
+        },
+        {
+            "nik": "159212",
+            "name": "Andriana",
+            "roster_data": null
+        },
+        {
+            "nik": "129422",
+            "name": "Anggi Rian Maulana",
+            "roster_data": null
+        },
+        {
+            "nik": "039523",
+            "name": "Dwi Bagus Virgiana",
+            "roster_data": null
+        },
+        {
+            "nik": "028018",
+            "name": "Edy Wiyono",
+            "roster_data": null
+        },
+        {
+            "nik": "017714",
+            "name": "Maryanto",
+            "roster_data": null
+        },
+        {
+            "nik": "059111",
+            "name": "Muhamad Bashori",
+            "roster_data": null
+        },
+        {
+            "nik": "148411",
+            "name": "Sahidi",
+            "roster_data": null
+        },
+        {
+            "nik": "049022",
+            "name": "Muhammad Mirfaqo",
+            "roster_data": null
+        },
+        {
+            "nik": "119322",
+            "name": "Mulyo Sugiharto",
+            "roster_data": null
+        },
+        {
+            "nik": "069824",
+            "name": "Rohmat Firmansyah",
+            "roster_data": null
+        },
+        {
+            "nik": "067614",
+            "name": "Muslim",
+            "roster_data": null
+        },
+        {
+            "nik": "118323",
+            "name": "Narsim",
+            "roster_data": null
+        },
+        {
+            "nik": "026907",
+            "name": "Nana Supriatna",
+            "roster_data": null
+        },
+        {
+            "nik": "047103",
+            "name": "Sarwita",
+            "roster_data": null
+        },
+        {
+            "nik": "139322",
+            "name": "Nuryanto",
+            "roster_data": null
+        },
+        {
+            "nik": "099721",
+            "name": "Rahmad Budi Nuryanto",
+            "roster_data": null
+        },
+        {
+            "nik": "058723",
+            "name": "Rezi Ridarto",
+            "roster_data": null
+        },
+        {
+            "nik": "018023",
+            "name": "Tjasmanto",
+            "roster_data": null
+        },
+        {
+            "nik": "189923",
+            "name": "Anggi Prasetiyo",
+            "roster_data": null
+        },
+        {
+            "nik": "118209",
+            "name": "Suwandi",
+            "roster_data": null
+        },
+        {
+            "nik": "077111",
+            "name": "Suwari",
+            "roster_data": null
+        },
+        {
+            "nik": "179216",
+            "name": "Teguh Aprianto",
+            "roster_data": null
+        },
+        {
+            "nik": "030118",
+            "name": "Tina Megawati Lesmana",
+            "roster_data": null
+        },
+        {
+            "nik": "168822",
+            "name": "Tomi Muryanto",
+            "roster_data": null
+        },
+        {
+            "nik": "038603",
+            "name": "Wahyu",
+            "roster_data": null
+        },
+        {
+            "nik": "037514",
+            "name": "Waluyo",
+            "roster_data": null
+        },
+        {
+            "nik": "178311",
+            "name": "Yopi Pramono",
+            "roster_data": null
+        },
+        {
+            "nik": "019920",
+            "name": "Yosef Erza Mayora",
+            "roster_data": null
+        },
+        {
+            "nik": "039223",
+            "name": "Yudi Pratama",
+            "roster_data": null
+        },
+        {
+            "nik": "018920",
+            "name": "Tri Handayani",
+            "roster_data": null
+        },
+        {
+            "nik": "118309",
+            "name": "Taufik",
+            "roster_data": null
+        },
+        {
+            "nik": "178822",
+            "name": "Ylham Meiliandy",
+            "roster_data": null
+        },
+        {
+            "nik": "049321",
+            "name": "Tori Danaji",
+            "roster_data": null
+        },
+        {
+            "nik": "158522",
+            "name": "Zaenal Arifin",
+            "roster_data": null
+        }
+    ]
+}
